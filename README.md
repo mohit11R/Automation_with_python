@@ -1,1 +1,9 @@
-# Hacker_News_Automation
+# Hacker News Automation Using Python
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Prerequisite Libraires
+
+* requests
+* Beautifulsoup
+

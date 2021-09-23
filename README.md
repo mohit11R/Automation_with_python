@@ -5,5 +5,5 @@
 ### Prerequisite Libraires
 
 * requests
-* Beautifulsoup
+* Beautifulsoup4
 

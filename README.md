@@ -2,13 +2,13 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Prerequisite Libraires
+### Prerequisite Install Libraires
 
 * requests
 * Beautifulsoup4
-* re - Regular Expression
-* sys
-* Exception Handling
+* re - Regular Expression (default)
+* sys - (default)
+* Notion
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -16,4 +16,5 @@
 
 1) Hacker News Automation
 2) TED_Talk Downloader
+3) Notion Automation
 
